@@ -54,29 +54,21 @@ public class Main {
 //        Время работы с ConcurrentHashMap, мс: 7
 //        Время работы с Collections.synchronizedMap, мс: 3
 
-//        Размер мапы -> 1_000
+//        Размер мапы -> 1000
 //        Время работы с ConcurrentHashMap, мс: 8
 //        Время работы с Collections.synchronizedMap, мс: 3
 
-//        Размер мапы -> 10_000
+//        Размер мапы -> 10000
 //        Время работы с ConcurrentHashMap, мс: 8
 //        Время работы с Collections.synchronizedMap, мс: 9
 
-//        Размер мапы -> 100_000
+//        Размер мапы -> 100000
 //        Время работы с ConcurrentHashMap, мс: 8
 //        Время работы с Collections.synchronizedMap, мс: 33
 
-//        Размер мапы -> 1_000_000
+//        Размер мапы -> 1000000
 //        Время работы с ConcurrentHashMap, мс: 10
 //        Время работы с Collections.synchronizedMap, мс: 45
-
-//        Размер мапы -> 10_000_000
-//        Время работы с ConcurrentHashMap, мс: 17
-//        Время работы с Collections.synchronizedMap, мс: 95
-
-//        Размер мапы -> 100_000_000
-//        Время работы с ConcurrentHashMap, мс: 18
-//        Время работы с Collections.synchronizedMap, мс: 148
 
 //        Размер мапы -> 1_000_000_000
 //        Время работы с ConcurrentHashMap, мс: 17
